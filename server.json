@@ -1,16 +1,9 @@
 [
   {
-    "name": "Server 1",
+    "name": "word channel",
     "host": "http://8uhd.com",
     "username": "arab1one.com1aa2212",
     "password": "233455316349",
     "port": "80"
   },
-  {
-    "name": "Server 2",
-    "host": "http://8uhd.com",
-    "username": "arab1one.com1aa2212",
-    "password": "233455316349",
-    "port": "80"
-  }
 ]
