@@ -1,16 +1,16 @@
 [
   {
     "name": "Server 1",
-    "host": "example1.com",
-    "username": "user1",
-    "password": "pass1",
-    "port": "8080"
+    "host": "http://8uhd.com",
+    "username": "arab1one.com1aa2212",
+    "password": "233455316349",
+    "port": "80"
   },
   {
     "name": "Server 2",
-    "host": "example2.com",
-    "username": "user2",
-    "password": "pass2",
-    "port": "8080"
+    "host": "http://8uhd.com",
+    "username": "arab1one.com1aa2212",
+    "password": "233455316349",
+    "port": "80"
   }
 ]
